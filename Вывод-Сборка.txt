@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: metodichka, Конфигурация: Debug Any CPU ------
+1>  metodichka -> C:\Users\Алмаз\source\repos\lesson 09.10\metodichka\bin\Debug\metodichka.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
